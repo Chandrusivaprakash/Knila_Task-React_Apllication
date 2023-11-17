@@ -14,7 +14,7 @@ This application is built using React JS and is optimized for mobile using Boots
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `https://github.com/Chandrusivaprakash/Knila_Task-React_Apllication`
 2. Install dependencies: `npm install`, `npm install react-router-dom` , `npm install sweetalert2`
 3. Start the application: `npm start`
 
